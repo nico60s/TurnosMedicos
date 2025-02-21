@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|c:\\users\\nico_\\onedrive\\desktop\\coding\\turnosmedicos\\src\\turnosmedicos\\domain\\shared\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|solutionrelative:domain\\shared\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|c:\\users\\nico_\\onedrive\\desktop\\coding\\turnosmedicos\\src\\turnosmedicos\\domain\\medicoaggregate\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|solutionrelative:domain\\medicoaggregate\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|c:\\users\\nico_\\onedrive\\desktop\\coding\\turnosmedicos\\src\\turnosmedicos\\domain\\medicoaggregate\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|solutionrelative:domain\\medicoaggregate\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|c:\\users\\nico_\\onedrive\\desktop\\coding\\turnosmedicos\\src\\turnosmedicos\\domain\\medicoaggregate\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|solutionrelative:domain\\medicoaggregate\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|c:\\users\\nico_\\onedrive\\desktop\\coding\\turnosmedicos\\src\\turnosmedicos\\domain\\pacienteaggregate\\citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|solutionrelative:domain\\pacienteaggregate\\citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|c:\\users\\nico_\\onedrive\\desktop\\coding\\turnosmedicos\\src\\turnosmedicos\\domain\\pacienteaggregate\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,24 +27,12 @@
       "RelativeMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|solutionrelative:domain\\services\\pacientedomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|c:\\users\\nico_\\onedrive\\desktop\\coding\\turnosmedicos\\src\\turnosmedicos\\domain\\shared\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|solutionrelative:domain\\shared\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|c:\\users\\nico_\\onedrive\\desktop\\coding\\turnosmedicos\\src\\turnosmedicos\\domain\\services\\ipacientedomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|solutionrelative:domain\\services\\ipacientedomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|c:\\users\\nico_\\onedrive\\desktop\\coding\\turnosmedicos\\src\\turnosmedicos\\domain\\medicoaggregate\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|solutionrelative:domain\\medicoaggregate\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|c:\\users\\nico_\\onedrive\\desktop\\coding\\turnosmedicos\\src\\turnosmedicos\\domain\\medicoaggregate\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|solutionrelative:domain\\medicoaggregate\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|c:\\users\\nico_\\onedrive\\desktop\\coding\\turnosmedicos\\src\\turnosmedicos\\domain\\pacienteaggregate\\citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|solutionrelative:domain\\pacienteaggregate\\citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|c:\\users\\nico_\\onedrive\\desktop\\coding\\turnosmedicos\\src\\turnosmedicos\\domain\\medicoaggregate\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|solutionrelative:domain\\medicoaggregate\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80F844D5-ADD7-4E4D-98F6-1CE379592BD1}|Domain\\Domain.csproj|c:\\users\\nico_\\onedrive\\desktop\\coding\\turnosmedicos\\src\\turnosmedicos\\domain\\shared\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PacienteDomainService.cs",
               "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\Services\\PacienteDomainService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\PacienteDomainService.cs",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IPacienteDomainService.cs",
               "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\Services\\IPacienteDomainService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\IPacienteDomainService.cs",
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Turno.cs",
               "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\MedicoAggregate\\Turno.cs",
               "RelativeDocumentMoniker": "Domain\\MedicoAggregate\\Turno.cs",
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "AggregateRoot.cs",
               "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\Shared\\AggregateRoot.cs",
               "RelativeDocumentMoniker": "Domain\\Shared\\AggregateRoot.cs",
@@ -102,6 +102,58 @@
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwB0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T02:55:21.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Agenda.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\MedicoAggregate\\Agenda.cs",
+              "RelativeDocumentMoniker": "Domain\\MedicoAggregate\\Agenda.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\MedicoAggregate\\Agenda.cs",
+              "RelativeToolTip": "Domain\\MedicoAggregate\\Agenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T00:42:02.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CitaMedica.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\PacienteAggregate\\CitaMedica.cs",
+              "RelativeDocumentMoniker": "Domain\\PacienteAggregate\\CitaMedica.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\PacienteAggregate\\CitaMedica.cs",
+              "RelativeToolTip": "Domain\\PacienteAggregate\\CitaMedica.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T00:41:53.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\PacienteAggregate\\Paciente.cs",
+              "RelativeDocumentMoniker": "Domain\\PacienteAggregate\\Paciente.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\PacienteAggregate\\Paciente.cs",
+              "RelativeToolTip": "Domain\\PacienteAggregate\\Paciente.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T00:41:44.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\MedicoAggregate\\Medico.cs",
+              "RelativeDocumentMoniker": "Domain\\MedicoAggregate\\Medico.cs",
+              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\MedicoAggregate\\Medico.cs",
+              "RelativeToolTip": "Domain\\MedicoAggregate\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T00:41:37.925Z",
               "EditorCaption": ""
             },
             {
@@ -115,58 +167,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T02:53:41.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Agenda.cs",
-              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\MedicoAggregate\\Agenda.cs",
-              "RelativeDocumentMoniker": "Domain\\MedicoAggregate\\Agenda.cs",
-              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\MedicoAggregate\\Agenda.cs",
-              "RelativeToolTip": "Domain\\MedicoAggregate\\Agenda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T00:42:02.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CitaMedica.cs",
-              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\PacienteAggregate\\CitaMedica.cs",
-              "RelativeDocumentMoniker": "Domain\\PacienteAggregate\\CitaMedica.cs",
-              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\PacienteAggregate\\CitaMedica.cs",
-              "RelativeToolTip": "Domain\\PacienteAggregate\\CitaMedica.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T00:41:53.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Paciente.cs",
-              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\PacienteAggregate\\Paciente.cs",
-              "RelativeDocumentMoniker": "Domain\\PacienteAggregate\\Paciente.cs",
-              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\PacienteAggregate\\Paciente.cs",
-              "RelativeToolTip": "Domain\\PacienteAggregate\\Paciente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T00:41:44.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Medico.cs",
-              "DocumentMoniker": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\MedicoAggregate\\Medico.cs",
-              "RelativeDocumentMoniker": "Domain\\MedicoAggregate\\Medico.cs",
-              "ToolTip": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\MedicoAggregate\\Medico.cs",
-              "RelativeToolTip": "Domain\\MedicoAggregate\\Medico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T00:41:37.925Z",
               "EditorCaption": ""
             }
           ]

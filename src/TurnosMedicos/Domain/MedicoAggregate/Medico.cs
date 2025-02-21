@@ -13,7 +13,10 @@ namespace Domain.MedicoAggregate
             _apellido = apellido;
             _especialidad = especialidad;
         }
+        public static Medico New(string nombre, string apellido, string especialidad)
+        {
+            return new Medico(nombre, apellido, especialidad);
+        }
 
-        
     }
 }

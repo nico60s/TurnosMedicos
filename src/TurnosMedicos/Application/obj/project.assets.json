@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\Domain.csproj",
-      "projectName": "Domain",
-      "projectPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\TurnosMedicos\\src\\TurnosMedicos\\Application\\Application.csproj",
+      "projectName": "Application",
+      "projectPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\TurnosMedicos\\src\\TurnosMedicos\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\nico_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\TurnosMedicos\\src\\TurnosMedicos\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\nico_\\OneDrive\\Desktop\\Coding\\TurnosMedicos\\TurnosMedicos\\src\\TurnosMedicos\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
